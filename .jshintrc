@@ -21,6 +21,5 @@
   "nonew": true,
   "plusplus": false,
   "undef": true,
-  "unused": true,
-  "strict": true
+  "unused": true
 }
