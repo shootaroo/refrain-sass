@@ -36,8 +36,7 @@
     "xtend": "^4.0.0"
   },
   "devDependencies": {
-    "babel": "^6.0.0",
-    "babel-cli": "^6.1.1",
+    "babel": "^4.7.0",
     "espower-babel": "^3.3.0",
     "husky": "^0.10.0",
     "jscs": "^2.5.0",
